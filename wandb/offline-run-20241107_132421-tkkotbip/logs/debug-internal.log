@@ -1,0 +1,15 @@
+{"time":"2024-11-07T13:24:21.317522607+08:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-07T13:24:21.317547002+08:00","level":"INFO","msg":"created symlink","path":"/home/lr2024/project/ResInf-main/wandb/offline-run-20241107_132421-tkkotbip/logs/debug-core.log"}
+{"time":"2024-11-07T13:24:21.529273954+08:00","level":"INFO","msg":"created new stream","id":"tkkotbip"}
+{"time":"2024-11-07T13:24:21.529319239+08:00","level":"INFO","msg":"stream: started","id":"tkkotbip"}
+{"time":"2024-11-07T13:24:21.529384292+08:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"tkkotbip"}}
+{"time":"2024-11-07T13:24:21.529441119+08:00","level":"INFO","msg":"sender: started","stream_id":"tkkotbip"}
+{"time":"2024-11-07T13:24:21.529580111+08:00","level":"INFO","msg":"handler: started","stream_id":{"value":"tkkotbip"}}
+{"time":"2024-11-07T13:24:21.537274714+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-07T13:24:27.185648404+08:00","level":"INFO","msg":"stream: closing","id":"tkkotbip"}
+{"time":"2024-11-07T13:24:27.185696445+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-07T13:24:27.186752919+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-07T13:24:27.187117477+08:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"tkkotbip"}}
+{"time":"2024-11-07T13:24:27.187138717+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"tkkotbip"}}
+{"time":"2024-11-07T13:24:27.187173873+08:00","level":"INFO","msg":"sender: closed","stream_id":"tkkotbip"}
+{"time":"2024-11-07T13:24:27.187307496+08:00","level":"INFO","msg":"stream: closed","id":"tkkotbip"}

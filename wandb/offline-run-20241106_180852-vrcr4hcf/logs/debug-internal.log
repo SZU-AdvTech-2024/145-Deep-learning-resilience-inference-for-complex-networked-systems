@@ -1,0 +1,16 @@
+{"time":"2024-11-06T18:08:52.569451533+08:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-06T18:08:52.569476481+08:00","level":"INFO","msg":"created symlink","path":"/home/lr2024/project/ResInf-main/wandb/offline-run-20241106_180852-vrcr4hcf/logs/debug-core.log"}
+{"time":"2024-11-06T18:08:52.680971649+08:00","level":"INFO","msg":"created new stream","id":"vrcr4hcf"}
+{"time":"2024-11-06T18:08:52.68102009+08:00","level":"INFO","msg":"stream: started","id":"vrcr4hcf"}
+{"time":"2024-11-06T18:08:52.681081517+08:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"vrcr4hcf"}}
+{"time":"2024-11-06T18:08:52.681145237+08:00","level":"INFO","msg":"handler: started","stream_id":{"value":"vrcr4hcf"}}
+{"time":"2024-11-06T18:08:52.681206573+08:00","level":"INFO","msg":"sender: started","stream_id":"vrcr4hcf"}
+{"time":"2024-11-06T18:08:52.689212364+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-06T18:09:06.857666005+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-06T18:09:06.858599659+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-06T18:09:06.859522121+08:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2024-11-06T18:09:07.864862089+08:00","level":"INFO","msg":"stream: closing","id":"vrcr4hcf"}
+{"time":"2024-11-06T18:09:07.864884662+08:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"vrcr4hcf"}}
+{"time":"2024-11-06T18:09:07.864904409+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"vrcr4hcf"}}
+{"time":"2024-11-06T18:09:07.864945206+08:00","level":"INFO","msg":"sender: closed","stream_id":"vrcr4hcf"}
+{"time":"2024-11-06T18:09:07.865007694+08:00","level":"INFO","msg":"stream: closed","id":"vrcr4hcf"}

@@ -1,0 +1,16 @@
+{"time":"2024-11-07T12:45:06.409360148+08:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-07T12:45:06.409384805+08:00","level":"INFO","msg":"created symlink","path":"/home/lr2024/project/ResInf-main/wandb/offline-run-20241107_124506-sutjcout/logs/debug-core.log"}
+{"time":"2024-11-07T12:45:06.619540774+08:00","level":"INFO","msg":"created new stream","id":"sutjcout"}
+{"time":"2024-11-07T12:45:06.61958124+08:00","level":"INFO","msg":"stream: started","id":"sutjcout"}
+{"time":"2024-11-07T12:45:06.619633329+08:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"sutjcout"}}
+{"time":"2024-11-07T12:45:06.619680318+08:00","level":"INFO","msg":"handler: started","stream_id":{"value":"sutjcout"}}
+{"time":"2024-11-07T12:45:06.619748127+08:00","level":"INFO","msg":"sender: started","stream_id":"sutjcout"}
+{"time":"2024-11-07T12:45:06.627411639+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-07T12:45:25.509933374+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-07T12:45:25.510971809+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-07T12:45:25.512191618+08:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2024-11-07T12:45:26.519130427+08:00","level":"INFO","msg":"stream: closing","id":"sutjcout"}
+{"time":"2024-11-07T12:45:26.519159943+08:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"sutjcout"}}
+{"time":"2024-11-07T12:45:26.519190801+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"sutjcout"}}
+{"time":"2024-11-07T12:45:26.519240956+08:00","level":"INFO","msg":"sender: closed","stream_id":"sutjcout"}
+{"time":"2024-11-07T12:45:26.519352798+08:00","level":"INFO","msg":"stream: closed","id":"sutjcout"}

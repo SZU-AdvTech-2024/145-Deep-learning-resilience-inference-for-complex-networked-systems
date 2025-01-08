@@ -1,0 +1,15 @@
+{"time":"2024-12-02T21:21:54.469860998+08:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-12-02T21:21:54.469953533+08:00","level":"INFO","msg":"created symlink","path":"/home/lr2024/project/ResInf-main/wandb/offline-run-20241202_212154-hoefqrh6/logs/debug-core.log"}
+{"time":"2024-12-02T21:21:55.198323472+08:00","level":"INFO","msg":"created new stream","id":"hoefqrh6"}
+{"time":"2024-12-02T21:21:55.198443438+08:00","level":"INFO","msg":"stream: started","id":"hoefqrh6"}
+{"time":"2024-12-02T21:21:55.198753353+08:00","level":"INFO","msg":"handler: started","stream_id":{"value":"hoefqrh6"}}
+{"time":"2024-12-02T21:21:55.199025387+08:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"hoefqrh6"}}
+{"time":"2024-12-02T21:21:55.199395145+08:00","level":"INFO","msg":"sender: started","stream_id":"hoefqrh6"}
+{"time":"2024-12-02T21:21:55.217803612+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-03T08:56:48.387351901+08:00","level":"INFO","msg":"stream: closing","id":"hoefqrh6"}
+{"time":"2024-12-03T08:56:48.387416714+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-03T08:56:48.389101145+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-03T08:56:48.389410179+08:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"hoefqrh6"}}
+{"time":"2024-12-03T08:56:48.389443101+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"hoefqrh6"}}
+{"time":"2024-12-03T08:56:48.389472978+08:00","level":"INFO","msg":"sender: closed","stream_id":"hoefqrh6"}
+{"time":"2024-12-03T08:56:48.389683575+08:00","level":"INFO","msg":"stream: closed","id":"hoefqrh6"}

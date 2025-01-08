@@ -1,0 +1,38 @@
+{"time":"2024-11-07T13:22:18.873885466+08:00","level":"INFO","msg":"started logging, with flags","port-filename":"/tmp/tmp4jm0yv7r/port-4007247.txt","pid":4007247,"debug":false,"disable-analytics":false}
+{"time":"2024-11-07T13:22:18.873950028+08:00","level":"INFO","msg":"FeatureState","shutdownOnParentExitEnabled":false}
+{"time":"2024-11-07T13:22:18.875143341+08:00","level":"INFO","msg":"server is running","addr":{"IP":"127.0.0.1","Port":41539,"Zone":""}}
+{"time":"2024-11-07T13:22:18.875239853+08:00","level":"INFO","msg":"Will exit if parent process dies.","ppid":4007247}
+{"time":"2024-11-07T13:22:19.05740684+08:00","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"127.0.0.1:40066"}
+{"time":"2024-11-07T13:22:19.074344202+08:00","level":"INFO","msg":"handleInformInit: received","streamId":"p94mu7tc","id":"127.0.0.1:40066"}
+{"time":"2024-11-07T13:22:19.186114651+08:00","level":"INFO","msg":"handleInformInit: stream started","streamId":"p94mu7tc","id":"127.0.0.1:40066"}
+{"time":"2024-11-07T13:22:38.525559006+08:00","level":"INFO","msg":"handleInformFinish: finish message received","streamId":"p94mu7tc","id":"127.0.0.1:40066"}
+{"time":"2024-11-07T13:22:38.5259267+08:00","level":"INFO","msg":"handleInformFinish: stream closed","streamId":"p94mu7tc","id":"127.0.0.1:40066"}
+{"time":"2024-11-07T13:22:38.568895129+08:00","level":"INFO","msg":"handleInformInit: received","streamId":"x5c3dqsx","id":"127.0.0.1:40066"}
+{"time":"2024-11-07T13:22:38.679348077+08:00","level":"INFO","msg":"handleInformInit: stream started","streamId":"x5c3dqsx","id":"127.0.0.1:40066"}
+{"time":"2024-11-07T13:22:58.991341239+08:00","level":"INFO","msg":"handleInformFinish: finish message received","streamId":"x5c3dqsx","id":"127.0.0.1:40066"}
+{"time":"2024-11-07T13:22:58.991731636+08:00","level":"INFO","msg":"handleInformFinish: stream closed","streamId":"x5c3dqsx","id":"127.0.0.1:40066"}
+{"time":"2024-11-07T13:22:59.032945713+08:00","level":"INFO","msg":"handleInformInit: received","streamId":"spet01iy","id":"127.0.0.1:40066"}
+{"time":"2024-11-07T13:22:59.142997126+08:00","level":"INFO","msg":"handleInformInit: stream started","streamId":"spet01iy","id":"127.0.0.1:40066"}
+{"time":"2024-11-07T13:23:19.540405221+08:00","level":"INFO","msg":"handleInformFinish: finish message received","streamId":"spet01iy","id":"127.0.0.1:40066"}
+{"time":"2024-11-07T13:23:19.540799024+08:00","level":"INFO","msg":"handleInformFinish: stream closed","streamId":"spet01iy","id":"127.0.0.1:40066"}
+{"time":"2024-11-07T13:23:19.580916579+08:00","level":"INFO","msg":"handleInformInit: received","streamId":"ndotp9qr","id":"127.0.0.1:40066"}
+{"time":"2024-11-07T13:23:19.691372371+08:00","level":"INFO","msg":"handleInformInit: stream started","streamId":"ndotp9qr","id":"127.0.0.1:40066"}
+{"time":"2024-11-07T13:23:40.107781507+08:00","level":"INFO","msg":"handleInformFinish: finish message received","streamId":"ndotp9qr","id":"127.0.0.1:40066"}
+{"time":"2024-11-07T13:23:40.108172215+08:00","level":"INFO","msg":"handleInformFinish: stream closed","streamId":"ndotp9qr","id":"127.0.0.1:40066"}
+{"time":"2024-11-07T13:23:40.148929254+08:00","level":"INFO","msg":"handleInformInit: received","streamId":"955hvde6","id":"127.0.0.1:40066"}
+{"time":"2024-11-07T13:23:40.358770964+08:00","level":"INFO","msg":"handleInformInit: stream started","streamId":"955hvde6","id":"127.0.0.1:40066"}
+{"time":"2024-11-07T13:24:00.688723099+08:00","level":"INFO","msg":"handleInformFinish: finish message received","streamId":"955hvde6","id":"127.0.0.1:40066"}
+{"time":"2024-11-07T13:24:00.689079101+08:00","level":"INFO","msg":"handleInformFinish: stream closed","streamId":"955hvde6","id":"127.0.0.1:40066"}
+{"time":"2024-11-07T13:24:00.732979762+08:00","level":"INFO","msg":"handleInformInit: received","streamId":"hohvynhz","id":"127.0.0.1:40066"}
+{"time":"2024-11-07T13:24:00.94590829+08:00","level":"INFO","msg":"handleInformInit: stream started","streamId":"hohvynhz","id":"127.0.0.1:40066"}
+{"time":"2024-11-07T13:24:21.274121319+08:00","level":"INFO","msg":"handleInformFinish: finish message received","streamId":"hohvynhz","id":"127.0.0.1:40066"}
+{"time":"2024-11-07T13:24:21.274399544+08:00","level":"INFO","msg":"handleInformFinish: stream closed","streamId":"hohvynhz","id":"127.0.0.1:40066"}
+{"time":"2024-11-07T13:24:21.3169737+08:00","level":"INFO","msg":"handleInformInit: received","streamId":"tkkotbip","id":"127.0.0.1:40066"}
+{"time":"2024-11-07T13:24:21.5293305+08:00","level":"INFO","msg":"handleInformInit: stream started","streamId":"tkkotbip","id":"127.0.0.1:40066"}
+{"time":"2024-11-07T13:24:27.185505745+08:00","level":"INFO","msg":"handleInformTeardown: server teardown initiated","id":"127.0.0.1:40066"}
+{"time":"2024-11-07T13:24:27.185647873+08:00","level":"INFO","msg":"server is shutting down"}
+{"time":"2024-11-07T13:24:27.185634047+08:00","level":"INFO","msg":"connection: Close: initiating connection closure","id":"127.0.0.1:40066"}
+{"time":"2024-11-07T13:24:27.185876705+08:00","level":"INFO","msg":"connection: Close: connection successfully closed","id":"127.0.0.1:40066"}
+{"time":"2024-11-07T13:24:27.187429215+08:00","level":"INFO","msg":"handleInformTeardown: server shutdown complete","id":"127.0.0.1:40066"}
+{"time":"2024-11-07T13:24:27.187448823+08:00","level":"INFO","msg":"connection: ManageConnectionData: connection closed","id":"127.0.0.1:40066"}
+{"time":"2024-11-07T13:24:27.187462128+08:00","level":"INFO","msg":"server is closed"}

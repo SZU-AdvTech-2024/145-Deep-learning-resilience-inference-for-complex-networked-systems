@@ -1,0 +1,15 @@
+{"time":"2024-11-06T18:09:07.909336503+08:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-06T18:09:07.909361581+08:00","level":"INFO","msg":"created symlink","path":"/home/lr2024/project/ResInf-main/wandb/offline-run-20241106_180907-r991lant/logs/debug-core.log"}
+{"time":"2024-11-06T18:09:08.121628595+08:00","level":"INFO","msg":"created new stream","id":"r991lant"}
+{"time":"2024-11-06T18:09:08.121662879+08:00","level":"INFO","msg":"stream: started","id":"r991lant"}
+{"time":"2024-11-06T18:09:08.121886311+08:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"r991lant"}}
+{"time":"2024-11-06T18:09:08.12192276+08:00","level":"INFO","msg":"sender: started","stream_id":"r991lant"}
+{"time":"2024-11-06T18:09:08.121894998+08:00","level":"INFO","msg":"handler: started","stream_id":{"value":"r991lant"}}
+{"time":"2024-11-06T18:09:08.12930321+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-06T18:09:15.606625311+08:00","level":"INFO","msg":"stream: closing","id":"r991lant"}
+{"time":"2024-11-06T18:09:15.606676848+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-06T18:09:15.607519971+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-06T18:09:15.607911851+08:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"r991lant"}}
+{"time":"2024-11-06T18:09:15.607984789+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"r991lant"}}
+{"time":"2024-11-06T18:09:15.608019003+08:00","level":"INFO","msg":"sender: closed","stream_id":"r991lant"}
+{"time":"2024-11-06T18:09:15.608137457+08:00","level":"INFO","msg":"stream: closed","id":"r991lant"}

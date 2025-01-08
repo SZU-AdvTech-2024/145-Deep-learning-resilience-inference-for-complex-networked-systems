@@ -1,0 +1,142 @@
+2024-12-02 21:21:54,454 INFO    MainThread:290734 [wandb_setup.py:_flush():79] Current SDK version is 0.18.5
+2024-12-02 21:21:54,454 INFO    MainThread:290734 [wandb_setup.py:_flush():79] Configure stats pid to 290734
+2024-12-02 21:21:54,454 INFO    MainThread:290734 [wandb_setup.py:_flush():79] Loading settings from /home/lr2024/.config/wandb/settings
+2024-12-02 21:21:54,454 INFO    MainThread:290734 [wandb_setup.py:_flush():79] Loading settings from /home/lr2024/project/ResInf-main/wandb/settings
+2024-12-02 21:21:54,454 INFO    MainThread:290734 [wandb_setup.py:_flush():79] Loading settings from environment variables: {'api_key': '***REDACTED***', 'mode': 'offline'}
+2024-12-02 21:21:54,454 INFO    MainThread:290734 [wandb_setup.py:_flush():79] Applying setup settings: {'mode': 'offline', '_disable_service': None}
+2024-12-02 21:21:54,454 INFO    MainThread:290734 [wandb_setup.py:_flush():79] Inferring run settings from compute environment: {'program_relpath': 'run_s2r.py', 'program_abspath': '/home/lr2024/project/ResInf-main/run_s2r.py', 'program': '/home/lr2024/project/ResInf-main/run_s2r.py'}
+2024-12-02 21:21:54,455 INFO    MainThread:290734 [wandb_init.py:_log_setup():534] Logging user logs to /home/lr2024/project/ResInf-main/wandb/offline-run-20241202_212154-hoefqrh6/logs/debug.log
+2024-12-02 21:21:54,455 INFO    MainThread:290734 [wandb_init.py:_log_setup():535] Logging internal logs to /home/lr2024/project/ResInf-main/wandb/offline-run-20241202_212154-hoefqrh6/logs/debug-internal.log
+2024-12-02 21:21:54,455 INFO    MainThread:290734 [wandb_init.py:init():621] calling init triggers
+2024-12-02 21:21:54,455 INFO    MainThread:290734 [wandb_init.py:init():628] wandb.init called with sweep_config: {}
+config: {}
+2024-12-02 21:21:54,455 INFO    MainThread:290734 [wandb_init.py:init():671] starting backend
+2024-12-02 21:21:54,455 INFO    MainThread:290734 [wandb_init.py:init():675] sending inform_init request
+2024-12-02 21:21:54,457 INFO    MainThread:290734 [backend.py:_multiprocessing_setup():104] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2024-12-02 21:21:54,463 INFO    MainThread:290734 [wandb_init.py:init():688] backend started and connected
+2024-12-02 21:21:54,467 INFO    MainThread:290734 [wandb_init.py:init():783] updated telemetry
+2024-12-02 21:21:54,468 INFO    MainThread:290734 [wandb_init.py:init():816] communicating run to backend with 90.0 second timeout
+2024-12-02 21:21:55,212 INFO    MainThread:290734 [wandb_init.py:init():867] starting run threads in backend
+2024-12-02 21:21:55,349 INFO    MainThread:290734 [wandb_run.py:_console_start():2463] atexit reg
+2024-12-02 21:21:55,349 INFO    MainThread:290734 [wandb_run.py:_redirect():2311] redirect: wrap_raw
+2024-12-02 21:21:55,350 INFO    MainThread:290734 [wandb_run.py:_redirect():2376] Wrapping output streams.
+2024-12-02 21:21:55,350 INFO    MainThread:290734 [wandb_run.py:_redirect():2401] Redirects installed.
+2024-12-02 21:21:55,352 INFO    MainThread:290734 [wandb_init.py:init():911] run started, returning control to user process
+2024-12-02 22:31:23,730 INFO    MainThread:290734 [wandb_setup.py:_flush():79] Current SDK version is 0.18.5
+2024-12-02 22:31:23,731 INFO    MainThread:290734 [wandb_setup.py:_flush():79] Configure stats pid to 290734
+2024-12-02 22:31:23,731 INFO    MainThread:290734 [wandb_setup.py:_flush():79] Loading settings from /home/lr2024/.config/wandb/settings
+2024-12-02 22:31:23,731 INFO    MainThread:290734 [wandb_setup.py:_flush():79] Loading settings from /home/lr2024/project/ResInf-main/wandb/settings
+2024-12-02 22:31:23,731 INFO    MainThread:290734 [wandb_setup.py:_flush():79] Loading settings from environment variables: {'api_key': '***REDACTED***', 'mode': 'offline'}
+2024-12-02 22:31:23,731 INFO    MainThread:290734 [wandb_setup.py:_flush():79] Applying setup settings: {'mode': 'offline', '_disable_service': None}
+2024-12-02 22:31:23,731 INFO    MainThread:290734 [wandb_setup.py:_flush():79] Inferring run settings from compute environment: {'program_relpath': 'run_s2r.py', 'program_abspath': '/home/lr2024/project/ResInf-main/run_s2r.py', 'program': '/home/lr2024/project/ResInf-main/run_s2r.py'}
+2024-12-02 22:31:23,731 INFO    MainThread:290734 [wandb_init.py:_log_setup():534] Logging user logs to /home/lr2024/project/ResInf-main/wandb/offline-run-20241202_223123-hrlmqjsx/logs/debug.log
+2024-12-02 22:31:23,731 INFO    MainThread:290734 [wandb_init.py:_log_setup():535] Logging internal logs to /home/lr2024/project/ResInf-main/wandb/offline-run-20241202_223123-hrlmqjsx/logs/debug-internal.log
+2024-12-02 22:31:23,731 INFO    MainThread:290734 [wandb_init.py:init():621] calling init triggers
+2024-12-02 22:31:23,731 INFO    MainThread:290734 [wandb_init.py:init():628] wandb.init called with sweep_config: {}
+config: {}
+2024-12-02 22:31:23,731 INFO    MainThread:290734 [wandb_init.py:init():666] wandb.init() called when a run is still active
+2024-12-02 23:41:31,995 INFO    MainThread:290734 [wandb_setup.py:_flush():79] Current SDK version is 0.18.5
+2024-12-02 23:41:31,995 INFO    MainThread:290734 [wandb_setup.py:_flush():79] Configure stats pid to 290734
+2024-12-02 23:41:31,995 INFO    MainThread:290734 [wandb_setup.py:_flush():79] Loading settings from /home/lr2024/.config/wandb/settings
+2024-12-02 23:41:31,995 INFO    MainThread:290734 [wandb_setup.py:_flush():79] Loading settings from /home/lr2024/project/ResInf-main/wandb/settings
+2024-12-02 23:41:31,995 INFO    MainThread:290734 [wandb_setup.py:_flush():79] Loading settings from environment variables: {'api_key': '***REDACTED***', 'mode': 'offline'}
+2024-12-02 23:41:31,995 INFO    MainThread:290734 [wandb_setup.py:_flush():79] Applying setup settings: {'mode': 'offline', '_disable_service': None}
+2024-12-02 23:41:31,995 INFO    MainThread:290734 [wandb_setup.py:_flush():79] Inferring run settings from compute environment: {'program_relpath': 'run_s2r.py', 'program_abspath': '/home/lr2024/project/ResInf-main/run_s2r.py', 'program': '/home/lr2024/project/ResInf-main/run_s2r.py'}
+2024-12-02 23:41:31,995 INFO    MainThread:290734 [wandb_init.py:_log_setup():534] Logging user logs to /home/lr2024/project/ResInf-main/wandb/offline-run-20241202_234131-cgaoqy82/logs/debug.log
+2024-12-02 23:41:31,996 INFO    MainThread:290734 [wandb_init.py:_log_setup():535] Logging internal logs to /home/lr2024/project/ResInf-main/wandb/offline-run-20241202_234131-cgaoqy82/logs/debug-internal.log
+2024-12-02 23:41:31,996 INFO    MainThread:290734 [wandb_init.py:init():621] calling init triggers
+2024-12-02 23:41:31,996 INFO    MainThread:290734 [wandb_init.py:init():628] wandb.init called with sweep_config: {}
+config: {}
+2024-12-02 23:41:31,996 INFO    MainThread:290734 [wandb_init.py:init():666] wandb.init() called when a run is still active
+2024-12-03 00:53:09,054 INFO    MainThread:290734 [wandb_setup.py:_flush():79] Current SDK version is 0.18.5
+2024-12-03 00:53:09,054 INFO    MainThread:290734 [wandb_setup.py:_flush():79] Configure stats pid to 290734
+2024-12-03 00:53:09,054 INFO    MainThread:290734 [wandb_setup.py:_flush():79] Loading settings from /home/lr2024/.config/wandb/settings
+2024-12-03 00:53:09,054 INFO    MainThread:290734 [wandb_setup.py:_flush():79] Loading settings from /home/lr2024/project/ResInf-main/wandb/settings
+2024-12-03 00:53:09,055 INFO    MainThread:290734 [wandb_setup.py:_flush():79] Loading settings from environment variables: {'api_key': '***REDACTED***', 'mode': 'offline'}
+2024-12-03 00:53:09,055 INFO    MainThread:290734 [wandb_setup.py:_flush():79] Applying setup settings: {'mode': 'offline', '_disable_service': None}
+2024-12-03 00:53:09,055 INFO    MainThread:290734 [wandb_setup.py:_flush():79] Inferring run settings from compute environment: {'program_relpath': 'run_s2r.py', 'program_abspath': '/home/lr2024/project/ResInf-main/run_s2r.py', 'program': '/home/lr2024/project/ResInf-main/run_s2r.py'}
+2024-12-03 00:53:09,055 INFO    MainThread:290734 [wandb_init.py:_log_setup():534] Logging user logs to /home/lr2024/project/ResInf-main/wandb/offline-run-20241203_005309-u13muq4b/logs/debug.log
+2024-12-03 00:53:09,055 INFO    MainThread:290734 [wandb_init.py:_log_setup():535] Logging internal logs to /home/lr2024/project/ResInf-main/wandb/offline-run-20241203_005309-u13muq4b/logs/debug-internal.log
+2024-12-03 00:53:09,055 INFO    MainThread:290734 [wandb_init.py:init():621] calling init triggers
+2024-12-03 00:53:09,055 INFO    MainThread:290734 [wandb_init.py:init():628] wandb.init called with sweep_config: {}
+config: {}
+2024-12-03 00:53:09,056 INFO    MainThread:290734 [wandb_init.py:init():666] wandb.init() called when a run is still active
+2024-12-03 02:03:50,605 INFO    MainThread:290734 [wandb_setup.py:_flush():79] Current SDK version is 0.18.5
+2024-12-03 02:03:50,605 INFO    MainThread:290734 [wandb_setup.py:_flush():79] Configure stats pid to 290734
+2024-12-03 02:03:50,606 INFO    MainThread:290734 [wandb_setup.py:_flush():79] Loading settings from /home/lr2024/.config/wandb/settings
+2024-12-03 02:03:50,606 INFO    MainThread:290734 [wandb_setup.py:_flush():79] Loading settings from /home/lr2024/project/ResInf-main/wandb/settings
+2024-12-03 02:03:50,606 INFO    MainThread:290734 [wandb_setup.py:_flush():79] Loading settings from environment variables: {'api_key': '***REDACTED***', 'mode': 'offline'}
+2024-12-03 02:03:50,606 INFO    MainThread:290734 [wandb_setup.py:_flush():79] Applying setup settings: {'mode': 'offline', '_disable_service': None}
+2024-12-03 02:03:50,606 INFO    MainThread:290734 [wandb_setup.py:_flush():79] Inferring run settings from compute environment: {'program_relpath': 'run_s2r.py', 'program_abspath': '/home/lr2024/project/ResInf-main/run_s2r.py', 'program': '/home/lr2024/project/ResInf-main/run_s2r.py'}
+2024-12-03 02:03:50,606 INFO    MainThread:290734 [wandb_init.py:_log_setup():534] Logging user logs to /home/lr2024/project/ResInf-main/wandb/offline-run-20241203_020350-triz4li4/logs/debug.log
+2024-12-03 02:03:50,606 INFO    MainThread:290734 [wandb_init.py:_log_setup():535] Logging internal logs to /home/lr2024/project/ResInf-main/wandb/offline-run-20241203_020350-triz4li4/logs/debug-internal.log
+2024-12-03 02:03:50,607 INFO    MainThread:290734 [wandb_init.py:init():621] calling init triggers
+2024-12-03 02:03:50,607 INFO    MainThread:290734 [wandb_init.py:init():628] wandb.init called with sweep_config: {}
+config: {}
+2024-12-03 02:03:50,607 INFO    MainThread:290734 [wandb_init.py:init():666] wandb.init() called when a run is still active
+2024-12-03 03:12:47,124 INFO    MainThread:290734 [wandb_setup.py:_flush():79] Current SDK version is 0.18.5
+2024-12-03 03:12:47,125 INFO    MainThread:290734 [wandb_setup.py:_flush():79] Configure stats pid to 290734
+2024-12-03 03:12:47,125 INFO    MainThread:290734 [wandb_setup.py:_flush():79] Loading settings from /home/lr2024/.config/wandb/settings
+2024-12-03 03:12:47,125 INFO    MainThread:290734 [wandb_setup.py:_flush():79] Loading settings from /home/lr2024/project/ResInf-main/wandb/settings
+2024-12-03 03:12:47,125 INFO    MainThread:290734 [wandb_setup.py:_flush():79] Loading settings from environment variables: {'api_key': '***REDACTED***', 'mode': 'offline'}
+2024-12-03 03:12:47,125 INFO    MainThread:290734 [wandb_setup.py:_flush():79] Applying setup settings: {'mode': 'offline', '_disable_service': None}
+2024-12-03 03:12:47,125 INFO    MainThread:290734 [wandb_setup.py:_flush():79] Inferring run settings from compute environment: {'program_relpath': 'run_s2r.py', 'program_abspath': '/home/lr2024/project/ResInf-main/run_s2r.py', 'program': '/home/lr2024/project/ResInf-main/run_s2r.py'}
+2024-12-03 03:12:47,125 INFO    MainThread:290734 [wandb_init.py:_log_setup():534] Logging user logs to /home/lr2024/project/ResInf-main/wandb/offline-run-20241203_031247-wtd72js8/logs/debug.log
+2024-12-03 03:12:47,126 INFO    MainThread:290734 [wandb_init.py:_log_setup():535] Logging internal logs to /home/lr2024/project/ResInf-main/wandb/offline-run-20241203_031247-wtd72js8/logs/debug-internal.log
+2024-12-03 03:12:47,126 INFO    MainThread:290734 [wandb_init.py:init():621] calling init triggers
+2024-12-03 03:12:47,126 INFO    MainThread:290734 [wandb_init.py:init():628] wandb.init called with sweep_config: {}
+config: {}
+2024-12-03 03:12:47,126 INFO    MainThread:290734 [wandb_init.py:init():666] wandb.init() called when a run is still active
+2024-12-03 04:21:17,994 INFO    MainThread:290734 [wandb_setup.py:_flush():79] Current SDK version is 0.18.5
+2024-12-03 04:21:17,994 INFO    MainThread:290734 [wandb_setup.py:_flush():79] Configure stats pid to 290734
+2024-12-03 04:21:17,995 INFO    MainThread:290734 [wandb_setup.py:_flush():79] Loading settings from /home/lr2024/.config/wandb/settings
+2024-12-03 04:21:17,995 INFO    MainThread:290734 [wandb_setup.py:_flush():79] Loading settings from /home/lr2024/project/ResInf-main/wandb/settings
+2024-12-03 04:21:17,995 INFO    MainThread:290734 [wandb_setup.py:_flush():79] Loading settings from environment variables: {'api_key': '***REDACTED***', 'mode': 'offline'}
+2024-12-03 04:21:17,995 INFO    MainThread:290734 [wandb_setup.py:_flush():79] Applying setup settings: {'mode': 'offline', '_disable_service': None}
+2024-12-03 04:21:17,995 INFO    MainThread:290734 [wandb_setup.py:_flush():79] Inferring run settings from compute environment: {'program_relpath': 'run_s2r.py', 'program_abspath': '/home/lr2024/project/ResInf-main/run_s2r.py', 'program': '/home/lr2024/project/ResInf-main/run_s2r.py'}
+2024-12-03 04:21:17,996 INFO    MainThread:290734 [wandb_init.py:_log_setup():534] Logging user logs to /home/lr2024/project/ResInf-main/wandb/offline-run-20241203_042117-i5uslbhr/logs/debug.log
+2024-12-03 04:21:17,996 INFO    MainThread:290734 [wandb_init.py:_log_setup():535] Logging internal logs to /home/lr2024/project/ResInf-main/wandb/offline-run-20241203_042117-i5uslbhr/logs/debug-internal.log
+2024-12-03 04:21:17,996 INFO    MainThread:290734 [wandb_init.py:init():621] calling init triggers
+2024-12-03 04:21:17,996 INFO    MainThread:290734 [wandb_init.py:init():628] wandb.init called with sweep_config: {}
+config: {}
+2024-12-03 04:21:17,996 INFO    MainThread:290734 [wandb_init.py:init():666] wandb.init() called when a run is still active
+2024-12-03 05:30:15,490 INFO    MainThread:290734 [wandb_setup.py:_flush():79] Current SDK version is 0.18.5
+2024-12-03 05:30:15,491 INFO    MainThread:290734 [wandb_setup.py:_flush():79] Configure stats pid to 290734
+2024-12-03 05:30:15,491 INFO    MainThread:290734 [wandb_setup.py:_flush():79] Loading settings from /home/lr2024/.config/wandb/settings
+2024-12-03 05:30:15,491 INFO    MainThread:290734 [wandb_setup.py:_flush():79] Loading settings from /home/lr2024/project/ResInf-main/wandb/settings
+2024-12-03 05:30:15,491 INFO    MainThread:290734 [wandb_setup.py:_flush():79] Loading settings from environment variables: {'api_key': '***REDACTED***', 'mode': 'offline'}
+2024-12-03 05:30:15,491 INFO    MainThread:290734 [wandb_setup.py:_flush():79] Applying setup settings: {'mode': 'offline', '_disable_service': None}
+2024-12-03 05:30:15,491 INFO    MainThread:290734 [wandb_setup.py:_flush():79] Inferring run settings from compute environment: {'program_relpath': 'run_s2r.py', 'program_abspath': '/home/lr2024/project/ResInf-main/run_s2r.py', 'program': '/home/lr2024/project/ResInf-main/run_s2r.py'}
+2024-12-03 05:30:15,492 INFO    MainThread:290734 [wandb_init.py:_log_setup():534] Logging user logs to /home/lr2024/project/ResInf-main/wandb/offline-run-20241203_053015-u9z4rh81/logs/debug.log
+2024-12-03 05:30:15,492 INFO    MainThread:290734 [wandb_init.py:_log_setup():535] Logging internal logs to /home/lr2024/project/ResInf-main/wandb/offline-run-20241203_053015-u9z4rh81/logs/debug-internal.log
+2024-12-03 05:30:15,492 INFO    MainThread:290734 [wandb_init.py:init():621] calling init triggers
+2024-12-03 05:30:15,492 INFO    MainThread:290734 [wandb_init.py:init():628] wandb.init called with sweep_config: {}
+config: {}
+2024-12-03 05:30:15,493 INFO    MainThread:290734 [wandb_init.py:init():666] wandb.init() called when a run is still active
+2024-12-03 06:39:27,832 INFO    MainThread:290734 [wandb_setup.py:_flush():79] Current SDK version is 0.18.5
+2024-12-03 06:39:27,833 INFO    MainThread:290734 [wandb_setup.py:_flush():79] Configure stats pid to 290734
+2024-12-03 06:39:27,833 INFO    MainThread:290734 [wandb_setup.py:_flush():79] Loading settings from /home/lr2024/.config/wandb/settings
+2024-12-03 06:39:27,833 INFO    MainThread:290734 [wandb_setup.py:_flush():79] Loading settings from /home/lr2024/project/ResInf-main/wandb/settings
+2024-12-03 06:39:27,833 INFO    MainThread:290734 [wandb_setup.py:_flush():79] Loading settings from environment variables: {'api_key': '***REDACTED***', 'mode': 'offline'}
+2024-12-03 06:39:27,833 INFO    MainThread:290734 [wandb_setup.py:_flush():79] Applying setup settings: {'mode': 'offline', '_disable_service': None}
+2024-12-03 06:39:27,834 INFO    MainThread:290734 [wandb_setup.py:_flush():79] Inferring run settings from compute environment: {'program_relpath': 'run_s2r.py', 'program_abspath': '/home/lr2024/project/ResInf-main/run_s2r.py', 'program': '/home/lr2024/project/ResInf-main/run_s2r.py'}
+2024-12-03 06:39:27,834 INFO    MainThread:290734 [wandb_init.py:_log_setup():534] Logging user logs to /home/lr2024/project/ResInf-main/wandb/offline-run-20241203_063927-aox6qhfl/logs/debug.log
+2024-12-03 06:39:27,834 INFO    MainThread:290734 [wandb_init.py:_log_setup():535] Logging internal logs to /home/lr2024/project/ResInf-main/wandb/offline-run-20241203_063927-aox6qhfl/logs/debug-internal.log
+2024-12-03 06:39:27,834 INFO    MainThread:290734 [wandb_init.py:init():621] calling init triggers
+2024-12-03 06:39:27,835 INFO    MainThread:290734 [wandb_init.py:init():628] wandb.init called with sweep_config: {}
+config: {}
+2024-12-03 06:39:27,835 INFO    MainThread:290734 [wandb_init.py:init():666] wandb.init() called when a run is still active
+2024-12-03 07:49:02,649 INFO    MainThread:290734 [wandb_setup.py:_flush():79] Current SDK version is 0.18.5
+2024-12-03 07:49:02,650 INFO    MainThread:290734 [wandb_setup.py:_flush():79] Configure stats pid to 290734
+2024-12-03 07:49:02,650 INFO    MainThread:290734 [wandb_setup.py:_flush():79] Loading settings from /home/lr2024/.config/wandb/settings
+2024-12-03 07:49:02,650 INFO    MainThread:290734 [wandb_setup.py:_flush():79] Loading settings from /home/lr2024/project/ResInf-main/wandb/settings
+2024-12-03 07:49:02,650 INFO    MainThread:290734 [wandb_setup.py:_flush():79] Loading settings from environment variables: {'api_key': '***REDACTED***', 'mode': 'offline'}
+2024-12-03 07:49:02,650 INFO    MainThread:290734 [wandb_setup.py:_flush():79] Applying setup settings: {'mode': 'offline', '_disable_service': None}
+2024-12-03 07:49:02,651 INFO    MainThread:290734 [wandb_setup.py:_flush():79] Inferring run settings from compute environment: {'program_relpath': 'run_s2r.py', 'program_abspath': '/home/lr2024/project/ResInf-main/run_s2r.py', 'program': '/home/lr2024/project/ResInf-main/run_s2r.py'}
+2024-12-03 07:49:02,651 INFO    MainThread:290734 [wandb_init.py:_log_setup():534] Logging user logs to /home/lr2024/project/ResInf-main/wandb/offline-run-20241203_074902-3syadwpy/logs/debug.log
+2024-12-03 07:49:02,651 INFO    MainThread:290734 [wandb_init.py:_log_setup():535] Logging internal logs to /home/lr2024/project/ResInf-main/wandb/offline-run-20241203_074902-3syadwpy/logs/debug-internal.log
+2024-12-03 07:49:02,652 INFO    MainThread:290734 [wandb_init.py:init():621] calling init triggers
+2024-12-03 07:49:02,652 INFO    MainThread:290734 [wandb_init.py:init():628] wandb.init called with sweep_config: {}
+config: {}
+2024-12-03 07:49:02,652 INFO    MainThread:290734 [wandb_init.py:init():666] wandb.init() called when a run is still active
+2024-12-03 08:56:48,388 WARNING MsgRouterThr:290734 [router.py:message_loop():77] message_loop has been closed

@@ -1,0 +1,80 @@
+{
+  "os":  "Linux-5.15.0-84-generic-x86_64-with-glibc2.31",
+  "python":  "3.10.14",
+  "startedAt":  "2024-11-06T10:08:36.035330Z",
+  "program":  "/home/lr2024/project/ResInf-main/run_micro.py",
+  "codePath":  "run_micro.py",
+  "root":  "/home/lr2024/project/ResInf-main",
+  "host":  "ubuntu",
+  "username":  "lr2024",
+  "executable":  "/home/lr2024/.virtualenvs/ResInf-main/bin/python",
+  "codePathLocal":  "run_micro.py",
+  "cpu_count":  128,
+  "cpu_count_logical":  256,
+  "gpu":  "NVIDIA GeForce RTX 4090",
+  "gpu_count":  8,
+  "disk":  {
+    "/":  {
+      "total":  "1888559353856",
+      "used":  "1292012777472"
+    }
+  },
+  "memory":  {
+    "total":  "270217912320"
+  },
+  "cpu":  {
+    "count":  128,
+    "countLogical":  256
+  },
+  "gpu_nvidia":  [
+    {
+      "name":  "NVIDIA GeForce RTX 4090",
+      "memoryTotal":  "25757220864",
+      "cudaCores":  16384,
+      "architecture":  "Ada"
+    },
+    {
+      "name":  "NVIDIA GeForce RTX 4090",
+      "memoryTotal":  "25757220864",
+      "cudaCores":  16384,
+      "architecture":  "Ada"
+    },
+    {
+      "name":  "NVIDIA GeForce RTX 4090",
+      "memoryTotal":  "25757220864",
+      "cudaCores":  16384,
+      "architecture":  "Ada"
+    },
+    {
+      "name":  "NVIDIA GeForce RTX 4090",
+      "memoryTotal":  "25757220864",
+      "cudaCores":  16384,
+      "architecture":  "Ada"
+    },
+    {
+      "name":  "NVIDIA GeForce RTX 4090",
+      "memoryTotal":  "25757220864",
+      "cudaCores":  16384,
+      "architecture":  "Ada"
+    },
+    {
+      "name":  "NVIDIA GeForce RTX 4090",
+      "memoryTotal":  "25757220864",
+      "cudaCores":  16384,
+      "architecture":  "Ada"
+    },
+    {
+      "name":  "NVIDIA GeForce RTX 4090",
+      "memoryTotal":  "25757220864",
+      "cudaCores":  16384,
+      "architecture":  "Ada"
+    },
+    {
+      "name":  "NVIDIA GeForce RTX 4090",
+      "memoryTotal":  "25757220864",
+      "cudaCores":  16384,
+      "architecture":  "Ada"
+    }
+  ],
+  "cudaVersion":  "12.2"
+}

@@ -1,0 +1,16 @@
+{"time":"2024-11-07T12:49:51.05753304+08:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-07T12:49:51.057555703+08:00","level":"INFO","msg":"created symlink","path":"/home/lr2024/project/ResInf-main/wandb/offline-run-20241107_124949-o2sp0rpm/logs/debug-core.log"}
+{"time":"2024-11-07T12:49:51.271112558+08:00","level":"INFO","msg":"created new stream","id":"o2sp0rpm"}
+{"time":"2024-11-07T12:49:51.271189393+08:00","level":"INFO","msg":"stream: started","id":"o2sp0rpm"}
+{"time":"2024-11-07T12:49:51.271248966+08:00","level":"INFO","msg":"handler: started","stream_id":{"value":"o2sp0rpm"}}
+{"time":"2024-11-07T12:49:51.271288661+08:00","level":"INFO","msg":"sender: started","stream_id":"o2sp0rpm"}
+{"time":"2024-11-07T12:49:51.271246171+08:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"o2sp0rpm"}}
+{"time":"2024-11-07T12:49:51.27906738+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-07T12:50:10.213254578+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-07T12:50:10.214421884+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-07T12:50:10.215381347+08:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2024-11-07T12:50:11.221945347+08:00","level":"INFO","msg":"stream: closing","id":"o2sp0rpm"}
+{"time":"2024-11-07T12:50:11.221990602+08:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"o2sp0rpm"}}
+{"time":"2024-11-07T12:50:11.222035998+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"o2sp0rpm"}}
+{"time":"2024-11-07T12:50:11.222071205+08:00","level":"INFO","msg":"sender: closed","stream_id":"o2sp0rpm"}
+{"time":"2024-11-07T12:50:11.222172396+08:00","level":"INFO","msg":"stream: closed","id":"o2sp0rpm"}

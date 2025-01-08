@@ -1,0 +1,16 @@
+{"time":"2024-11-07T13:23:19.581450527+08:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-07T13:23:19.581475875+08:00","level":"INFO","msg":"created symlink","path":"/home/lr2024/project/ResInf-main/wandb/offline-run-20241107_132319-ndotp9qr/logs/debug-core.log"}
+{"time":"2024-11-07T13:23:19.691335692+08:00","level":"INFO","msg":"created new stream","id":"ndotp9qr"}
+{"time":"2024-11-07T13:23:19.691367862+08:00","level":"INFO","msg":"stream: started","id":"ndotp9qr"}
+{"time":"2024-11-07T13:23:19.691441642+08:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"ndotp9qr"}}
+{"time":"2024-11-07T13:23:19.691500252+08:00","level":"INFO","msg":"sender: started","stream_id":"ndotp9qr"}
+{"time":"2024-11-07T13:23:19.691545077+08:00","level":"INFO","msg":"handler: started","stream_id":{"value":"ndotp9qr"}}
+{"time":"2024-11-07T13:23:19.69918102+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-07T13:23:39.097953457+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-07T13:23:39.098954867+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-07T13:23:39.100202382+08:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2024-11-07T13:23:40.107891866+08:00","level":"INFO","msg":"stream: closing","id":"ndotp9qr"}
+{"time":"2024-11-07T13:23:40.107928575+08:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"ndotp9qr"}}
+{"time":"2024-11-07T13:23:40.107964763+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"ndotp9qr"}}
+{"time":"2024-11-07T13:23:40.108024796+08:00","level":"INFO","msg":"sender: closed","stream_id":"ndotp9qr"}
+{"time":"2024-11-07T13:23:40.108157026+08:00","level":"INFO","msg":"stream: closed","id":"ndotp9qr"}

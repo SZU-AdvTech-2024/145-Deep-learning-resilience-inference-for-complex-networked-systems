@@ -1,0 +1,16 @@
+{"time":"2024-11-07T13:24:00.733531423+08:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-07T13:24:00.733555729+08:00","level":"INFO","msg":"created symlink","path":"/home/lr2024/project/ResInf-main/wandb/offline-run-20241107_132400-hohvynhz/logs/debug-core.log"}
+{"time":"2024-11-07T13:24:00.945853927+08:00","level":"INFO","msg":"created new stream","id":"hohvynhz"}
+{"time":"2024-11-07T13:24:00.945899403+08:00","level":"INFO","msg":"stream: started","id":"hohvynhz"}
+{"time":"2024-11-07T13:24:00.945959226+08:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"hohvynhz"}}
+{"time":"2024-11-07T13:24:00.946025191+08:00","level":"INFO","msg":"handler: started","stream_id":{"value":"hohvynhz"}}
+{"time":"2024-11-07T13:24:00.946100332+08:00","level":"INFO","msg":"sender: started","stream_id":"hohvynhz"}
+{"time":"2024-11-07T13:24:00.954043495+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-07T13:24:20.265763197+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-07T13:24:20.266785055+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-07T13:24:20.267906362+08:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2024-11-07T13:24:21.27424368+08:00","level":"INFO","msg":"stream: closing","id":"hohvynhz"}
+{"time":"2024-11-07T13:24:21.274274909+08:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"hohvynhz"}}
+{"time":"2024-11-07T13:24:21.274306879+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"hohvynhz"}}
+{"time":"2024-11-07T13:24:21.274332958+08:00","level":"INFO","msg":"sender: closed","stream_id":"hohvynhz"}
+{"time":"2024-11-07T13:24:21.274390577+08:00","level":"INFO","msg":"stream: closed","id":"hohvynhz"}

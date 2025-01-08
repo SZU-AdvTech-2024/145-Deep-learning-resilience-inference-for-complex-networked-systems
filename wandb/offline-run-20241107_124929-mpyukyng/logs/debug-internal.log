@@ -1,0 +1,16 @@
+{"time":"2024-11-07T12:49:29.433772051+08:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-07T12:49:29.433796427+08:00","level":"INFO","msg":"created symlink","path":"/home/lr2024/project/ResInf-main/wandb/offline-run-20241107_124929-mpyukyng/logs/debug-core.log"}
+{"time":"2024-11-07T12:49:29.645931459+08:00","level":"INFO","msg":"created new stream","id":"mpyukyng"}
+{"time":"2024-11-07T12:49:29.645977957+08:00","level":"INFO","msg":"stream: started","id":"mpyukyng"}
+{"time":"2024-11-07T12:49:29.646044262+08:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"mpyukyng"}}
+{"time":"2024-11-07T12:49:29.646092433+08:00","level":"INFO","msg":"sender: started","stream_id":"mpyukyng"}
+{"time":"2024-11-07T12:49:29.646144652+08:00","level":"INFO","msg":"handler: started","stream_id":{"value":"mpyukyng"}}
+{"time":"2024-11-07T12:49:29.654341233+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-07T12:49:48.60031511+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-07T12:49:48.60152162+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-07T12:49:48.602632479+08:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2024-11-07T12:49:49.607463417+08:00","level":"INFO","msg":"stream: closing","id":"mpyukyng"}
+{"time":"2024-11-07T12:49:49.607493193+08:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"mpyukyng"}}
+{"time":"2024-11-07T12:49:49.607527578+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"mpyukyng"}}
+{"time":"2024-11-07T12:49:49.607549159+08:00","level":"INFO","msg":"sender: closed","stream_id":"mpyukyng"}
+{"time":"2024-11-07T12:49:49.607608711+08:00","level":"INFO","msg":"stream: closed","id":"mpyukyng"}

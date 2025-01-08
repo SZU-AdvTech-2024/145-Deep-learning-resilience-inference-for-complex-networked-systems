@@ -1,0 +1,15 @@
+{"time":"2024-11-13T18:17:55.442250377+08:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-13T18:17:55.442268441+08:00","level":"INFO","msg":"created symlink","path":"/home/lr2024/project/ResInf-main/wandb/offline-run-20241113_181755-ceu90rfq/logs/debug-core.log"}
+{"time":"2024-11-13T18:17:55.653039579+08:00","level":"INFO","msg":"created new stream","id":"ceu90rfq"}
+{"time":"2024-11-13T18:17:55.653100795+08:00","level":"INFO","msg":"stream: started","id":"ceu90rfq"}
+{"time":"2024-11-13T18:17:55.653194582+08:00","level":"INFO","msg":"sender: started","stream_id":"ceu90rfq"}
+{"time":"2024-11-13T18:17:55.653141471+08:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"ceu90rfq"}}
+{"time":"2024-11-13T18:17:55.653216573+08:00","level":"INFO","msg":"handler: started","stream_id":{"value":"ceu90rfq"}}
+{"time":"2024-11-13T18:17:55.663063077+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-13T19:10:44.268763046+08:00","level":"INFO","msg":"stream: closing","id":"ceu90rfq"}
+{"time":"2024-11-13T19:10:44.268824352+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-13T19:10:44.270382342+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-13T19:10:44.270737532+08:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"ceu90rfq"}}
+{"time":"2024-11-13T19:10:44.270774772+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"ceu90rfq"}}
+{"time":"2024-11-13T19:10:44.270824406+08:00","level":"INFO","msg":"sender: closed","stream_id":"ceu90rfq"}
+{"time":"2024-11-13T19:10:44.270963138+08:00","level":"INFO","msg":"stream: closed","id":"ceu90rfq"}

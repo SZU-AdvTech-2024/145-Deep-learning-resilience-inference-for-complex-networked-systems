@@ -1,0 +1,16 @@
+{"time":"2024-11-07T12:50:31.453565301+08:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-07T12:50:31.453594877+08:00","level":"INFO","msg":"created symlink","path":"/home/lr2024/project/ResInf-main/wandb/offline-run-20241107_125031-qsfnucr6/logs/debug-core.log"}
+{"time":"2024-11-07T12:50:31.668062224+08:00","level":"INFO","msg":"created new stream","id":"qsfnucr6"}
+{"time":"2024-11-07T12:50:31.668152655+08:00","level":"INFO","msg":"stream: started","id":"qsfnucr6"}
+{"time":"2024-11-07T12:50:31.668223699+08:00","level":"INFO","msg":"sender: started","stream_id":"qsfnucr6"}
+{"time":"2024-11-07T12:50:31.668200054+08:00","level":"INFO","msg":"handler: started","stream_id":{"value":"qsfnucr6"}}
+{"time":"2024-11-07T12:50:31.668189354+08:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"qsfnucr6"}}
+{"time":"2024-11-07T12:50:31.676550522+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-07T12:50:50.644967575+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-07T12:50:50.646069487+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-07T12:50:50.647099503+08:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2024-11-07T12:50:51.653870976+08:00","level":"INFO","msg":"stream: closing","id":"qsfnucr6"}
+{"time":"2024-11-07T12:50:51.653906363+08:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"qsfnucr6"}}
+{"time":"2024-11-07T12:50:51.653955316+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"qsfnucr6"}}
+{"time":"2024-11-07T12:50:51.653984701+08:00","level":"INFO","msg":"sender: closed","stream_id":"qsfnucr6"}
+{"time":"2024-11-07T12:50:51.654078458+08:00","level":"INFO","msg":"stream: closed","id":"qsfnucr6"}
